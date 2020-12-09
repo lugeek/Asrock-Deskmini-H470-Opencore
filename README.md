@@ -1,11 +1,11 @@
 # The opencore EFI for Asrock deskmini H470
 
 ## Gears
-CPU: Intel core i9 10900es QTB1
-RAM: Corsair DDR4-3000 16GBx2
-SSD: Western Digital SN550 1T
-WIFI/BT: BCM94360CS2
-CPU cooler: NOCTUA NH L9i Fan
+CPU: Intel core i9 10900es QTB1  
+RAM: Corsair DDR4-3000 16GBx2  
+SSD: Western Digital SN550 1T  
+WIFI/BT: BCM94360CS2  
+CPU cooler: NOCTUA NH L9i Fan  
 
 ## Hackintosh
 1. HDMI has no audio output.
